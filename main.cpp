@@ -6,8 +6,8 @@ int main()
     char symbol,
          str[24];
 
-    int  number1 = 0.0,
-         number2 = 0.0;
+    int  number1 = 0,
+         number2 = 0;
 
     printf("Entering a symbol: ");
     scanf("%c", &symbol);
